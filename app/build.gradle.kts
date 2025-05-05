@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "julia.com.github.android_crypto_monitor"
+    namespace = "ana.com.github.android_crypto_monitor"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "julia.com.github.android_crypto_monitor"
+        applicationId = "ana.com.github.android_crypto_monitor"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
