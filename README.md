@@ -78,6 +78,12 @@ Quando o usuário toca em "Atualizar", o app:
 
 ---
 
+Abaixo, duas capturas de tela da aplicação funcionando:
+
+![image](https://github.com/user-attachments/assets/dde3ee1e-9250-4e75-b10d-36ca0fba0a0e)
+
+![image](https://github.com/user-attachments/assets/8783f4d0-5106-439c-89a6-cb568049552f)
+
 ## 🛠️ Configuração da API
 
 A base da API é definida na fábrica de serviços `MercadoBitcoinServiceFactory`, utilizando o seguinte padrão:
@@ -87,6 +93,7 @@ Retrofit.Builder()
     .baseUrl("https://www.mercadobitcoin.net/")
     .addConverterFactory(GsonConverterFactory.create())
     .build()
+
 
 
 
