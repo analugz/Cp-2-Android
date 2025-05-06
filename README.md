@@ -80,7 +80,7 @@ Quando o usuário toca em "Atualizar", o app:
 
 Abaixo, duas capturas de tela da aplicação funcionando:
 
-![image](https://github.com/user-attachments/assets/dde3ee1e-9250-4e75-b10d-36ca0fba0a0e)
+![437546229-dde3ee1e-9250-4e75-b10d-36ca0fba0a0e](https://github.com/user-attachments/assets/241989de-3046-403b-b32f-9017ede35f9c)
 
 ![image](https://github.com/user-attachments/assets/8783f4d0-5106-439c-89a6-cb568049552f)
 
