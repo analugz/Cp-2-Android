@@ -82,7 +82,7 @@ Abaixo, duas capturas de tela da aplicação funcionando:
 
 ![437546229-dde3ee1e-9250-4e75-b10d-36ca0fba0a0e](https://github.com/user-attachments/assets/241989de-3046-403b-b32f-9017ede35f9c)
 
-![image](https://github.com/user-attachments/assets/8783f4d0-5106-439c-89a6-cb568049552f)
+![437546555-8783f4d0-5106-439c-89a6-cb568049552f](https://github.com/user-attachments/assets/1bc8613c-c3e7-4ca7-a76c-74dc13deb9ba)
 
 ## 🛠️ Configuração da API
 
