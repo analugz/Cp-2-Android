@@ -6,7 +6,7 @@ Aplicativo desenvolvido em Kotlin com o propósito de acompanhar o preço atual 
 
 ## 🧩 Sobre o projeto
 
-A ideia principal foi criar uma ferramenta prática para quem quer checar rapidamente o valor do Bitcoin. A interface exibe informações essenciais como o nome da moeda e seu preço atualizado — tudo com atualização rápida e sem complicações.
+A ideia principal foi criar uma ferramenta prática para quem quer checar rapidamente o valor do Bitcoin. A interface exibe informações essenciais como o nome da moeda e seu preço atualizado — tudo com atualização rápida e sem complicações. A aplicação é dividida em múltiplas camadas, promovendo organização, legibilidade e manutenção facilitada. A arquitetura adotada segue o padrão MVVM (Model-View-ViewModel):
 
 ---
 
@@ -31,14 +31,6 @@ Os dados recebidos da API são representados por classes modeladas para refletir
 ### ⚙️ ViewModel
 
 Aqui acontece a ponte entre os dados e a interface do usuário. O ViewModel é responsável por buscar as informações através da `CryptoApiService`, tratar eventuais erros e preparar os dados para serem exibidos na tela.
-
----
-
-## 🎨 Interface com Jetpack Compose
-
-Toda a parte visual do app foi construída com **Jetpack Compose**, uma abordagem moderna e mais fluida para criar interfaces em Android. Com Compose, a interface responde automaticamente a mudanças nos dados, como a oscilação do valor do Bitcoin.
-
-O layout é simples: uma lista de criptomoedas mostrando nome, símbolo e preço atualizado. A comunicação com o ViewModel garante que os dados estejam sempre em dia.
 
 ---
 
