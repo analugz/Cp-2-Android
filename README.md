@@ -6,7 +6,7 @@ Aplicativo desenvolvido em Kotlin com o propósito de acompanhar o preço atual 
 
 ## 🧩 Sobre o projeto
 
-A ideia principal foi criar uma ferramenta prática para quem quer checar rapidamente o valor do Bitcoin. A interface exibe informações essenciais como o nome da moeda e seu preço atualizado — tudo com atualização rápida e sem complicações. A aplicação é dividida em múltiplas camadas, promovendo organização, legibilidade e manutenção facilitada. A arquitetura adotada segue o padrão MVVM (Model-View-ViewModel):
+A ideia principal foi criar uma ferramenta prática para quem quer checar rapidamente o valor do Bitcoin. A interface exibe informações essenciais como o nome da moeda e seu preço atualizado — tudo com atualização rápida e sem complicações. A aplicação é dividida em múltiplas camadas, promovendo organização, legibilidade e manutenção facilitada. A arquitetura adotada segue o padrão MVVM (Model-View-ViewModel).
 
 ---
 
